@@ -1,0 +1,6 @@
+Resources:
+  AccessLogsBucket:
+    Type: 'AWS::S3::Bucket'
+    Properties:
+      BucketName: 'bucket-pilha-su'  # Nome do bucket
+      # Remova a linha de ObjectOwnership se não for suportado
