@@ -1,4 +1,4 @@
-# Automatizando-com-AWS-CloudFormation-
+# Automatizando com AWS CloudFormation
 
 Durante o processo de criação da pilha na AWS utilizando CloudFormation, o objetivo foi automatizar o provisionamento de recursos, como buckets S3, usando templates em JSON ou YAML. No início, o template foi criado para configurar todos os recursos necessários, mas logo encontrei desafios relacionados a erros de configuração.
 
